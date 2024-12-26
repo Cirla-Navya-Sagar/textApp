@@ -1,1 +1,3 @@
 this file contains special requirements of textApp.
+    hoome page should change based on season
+    run sales at end of the year
